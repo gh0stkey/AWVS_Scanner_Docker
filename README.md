@@ -2,7 +2,7 @@
 
 AWVS  Scanner Docker
 
-** 13 200625101 **
+**13 200625101**
 ```
 docker pull registry.cn-hangzhou.aliyuncs.com/awvs_scanner/awvs_scanner:13.200625101
 docker run -itd --name awvs -p 13443:3443 registry.cn-hangzhou.aliyuncs.com/awvs_scanner/awvs_scanner:13.200625101
