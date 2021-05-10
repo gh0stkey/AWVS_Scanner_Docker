@@ -1,33 +1,18 @@
 ## AWVS
 
-### 13 200625101
+### 14.2.210503151
 
 ```
-docker pull registry.cn-hangzhou.aliyuncs.com/awvs_scanner/awvs_scanner:13.200625101
-docker run -itd --name awvs -p 13443:3443 registry.cn-hangzhou.aliyuncs.com/awvs_scanner/awvs_scanner:13.200625101
-```
-
-#### UserInfo
-
-```
-Account：hack@the.world
-Password：CScLkU4cidqBuXVp
-```
-
-### 13 200807155
-
-```
-docker pull registry.cn-hangzhou.aliyuncs.com/awvs_scanner/awvs_scanner:13.200807155
-docker run -itd --name awvs -p 13443:3443 registry.cn-hangzhou.aliyuncs.com/awvs_scanner/awvs_scanner:13.200807155
+docker pull registry.cn-hangzhou.aliyuncs.com/awvs_scanner/awvs_scanner:14.2.210503151
+docker run -itd --name awvs -p 13443:3443 registry.cn-hangzhou.aliyuncs.com/awvs_scanner/awvs_scanner:14.2.210503151
 ```
 
 #### UserInfo
 
 ```
-Account：hack@the.world
-Password：6GMoF8ZMCTXnuMgu
+Account：HACK@THE.WORLD
+Password：t7Z4G8yPoWVAaoJCwtvnAx
 ```
-
 
 ## Nessus
 
@@ -45,6 +30,6 @@ Account：hack@the.world
 Password：yf5DYpdQJesgNnN3
 ```
 
-## 来源
+## Referer
 
 知识星球：[HACK THE WORLD](https://public.zsxq.com/groups/225824414251.html?status=joined)
